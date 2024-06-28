@@ -3,7 +3,9 @@
 2. git reset --hard jak chcemy cofnac wszystko co zmienilismy i przywrocic to co juz bylo commited
 3. git -P branch pokazuje branche
 4. git branch nazwabrancha - tworzy branch
+   git checkout . - sprawdz ale chyba tez kasuje wszstkie unstaged zmiany
 5. git checkout nazwa - zmiana na ten branch
 6. git switch nazwa - to samo robi co wyzej
 7. git checkout -b nazwa - stworzy i odrazu mnie tam przelaczy
-
+8. git merge nazwabranch - z poziomu brancha main wpisujemy
+9. git branch -d nazwa - usuwamy brancha
