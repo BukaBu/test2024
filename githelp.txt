@@ -9,3 +9,6 @@
 7. git checkout -b nazwa - stworzy i odrazu mnie tam przelaczy
 8. git merge nazwabranch - z poziomu brancha main wpisujemy
 9. git branch -d nazwa - usuwamy brancha
+10. jak mamy jakis konflikt na branchach to naprawic w pliku i potem git add . i git commit sam
+11. skonfigurowac klucze ssh https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+12. i podpiac sie pdo githuba
