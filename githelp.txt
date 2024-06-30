@@ -12,3 +12,5 @@
 10. jak mamy jakis konflikt na branchach to naprawic w pliku i potem git add . i git commit sam
 11. skonfigurowac klucze ssh https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 12. i podpiac sie pdo githuba
+13. git remote add origin git@github.com:BukaBu/test2024.git (nazwa repo)
+14.git push --set-upstream origin main
