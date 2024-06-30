@@ -14,3 +14,4 @@
 12. i podpiac sie pdo githuba
 13. git remote add origin git@github.com:BukaBu/test2024.git (nazwa repo)
 14.git push --set-upstream origin main
+15. git pull - zmiany jakies sciagam z repo
